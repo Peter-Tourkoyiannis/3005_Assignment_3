@@ -1,9 +1,12 @@
 LINK FOR VIDEO: https://youtu.be/InkTB9vPCVw
 GITHUB LINK: https://github.com/Peter-Tourkoyiannis/3005_Assignment_3.git
 
+NOTE FOR TA: I am aware that my functions/methods have code that could be refactored to significantly
+reduce bloat, however the code was written this way so that interacting with the main would be simpler.
+
 INTRUCTIONS
 1. DOWNLOAD AND INSTALL PGADMIN. WHEN COMPLETED, RIGHT-CLICK ON THE DATABASES(n) AND CREATE A DATABASE
-CALLED STUDENTS.
+CALLED STUDENTS. (in pgAdmin)
 
 2. RIGHT CLICK ON THE NEW DATABASE AND CLICK QUERY TOOL. (in pgAdmin)
 
